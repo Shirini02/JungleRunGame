@@ -7,7 +7,6 @@ public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D playerRB;
     Animator animator;
-    public float playerspeed;
     public float jumpspeed;
     scoreincrement score;
 

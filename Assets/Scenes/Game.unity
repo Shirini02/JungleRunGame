@@ -859,7 +859,7 @@ GameObject:
   - component: {fileID: 296171381}
   m_Layer: 0
   m_Name: ObstacleSpawner
-  m_TagString: Untagged
+  m_TagString: tag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5214,7 +5214,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f1287a0e1f9e844984fae12c13e6a12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerspeed: 10
   jumpspeed: 16
 --- !u!114 &2063587989
 MonoBehaviour:
